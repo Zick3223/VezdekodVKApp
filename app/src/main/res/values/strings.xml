@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vezdekod</string>
+    <string name="title_activity_logged">LoggedActivity</string>
+    <string name="title_activity_group_browser">GroupBrowser</string>
+</resources>
